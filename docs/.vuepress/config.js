@@ -310,6 +310,12 @@ module.exports = {
         'G38C',
         'G38D',
         'G38E',
+        'G39A',
+        'G39B',
+        'G39C',
+        'G39D',
+        'G39E',
+        'G39F',
         'Gtest1',
         'Gtest2',
         'Gtest3'
